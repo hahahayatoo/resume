@@ -31,9 +31,12 @@
 * 技術スタック
   * PHP
     * FuelPHP
-  * JavaScript
+  * TypeScript/JavaScript
+    * Node.js
+    * Jest
     * jQUery
   * SQL
+  * Docker
 * プロジェクト詳細
   * ATSの機能追加およびバグフィックス
 
@@ -174,6 +177,7 @@
 
 | 取得年月日 | 資格内容等                                         |
 | ---------- | -------------------------------------------------- |
+| 2021/01    | Microsoft Certified: Azure Developer Associate |
 | 2020/03    | Microsoft Certified: Azure Administrator Associate |
 | 2014/09    | LPIC レベル1                                       |
 | 2010/10    | 応用情報技術者試験                                 |
